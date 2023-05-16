@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -45,9 +45,9 @@ namespace UserLogin
                 {
                     new User
                     {
-                        Username = "vanyok_st",
+                        Username = "Gena",
                         Password = "12345",
-                        FakNum = "123219015",
+                        FakNum = "123220045",
                         Role = 1,
                         Created = DateTime.Now,
                         ExpireOn = DateTime.MaxValue
@@ -65,7 +65,7 @@ namespace UserLogin
                     {
                         Username = "Nikita",
                         Password = "password",
-                        FakNum = "123219013",
+                        FakNum = "123220057",
                         Role = 4,
                         Created = DateTime.Now,
                         ExpireOn = DateTime.MaxValue
